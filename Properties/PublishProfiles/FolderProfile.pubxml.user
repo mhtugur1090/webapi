@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-05-20T19:39:33.9923482Z;True|2021-05-20T21:47:09.0200083+03:00;True|2021-05-20T21:08:43.6739419+03:00;True|2021-05-20T19:21:36.7728894+03:00;True|2021-05-19T16:14:52.1452608+03:00;True|2021-05-19T13:07:24.3334655+03:00;True|2021-05-18T11:47:44.0603272+03:00;True|2021-05-17T13:08:35.5275314+03:00;True|2021-05-17T11:58:30.9514748+03:00;True|2021-05-17T11:57:41.3932785+03:00;True|2021-05-17T11:55:43.0024441+03:00;True|2021-05-17T11:35:35.6781790+03:00;True|2021-05-17T10:27:22.1049213+03:00;True|2021-05-17T10:07:01.1831091+03:00;True|2021-05-16T18:28:24.7165733+03:00;True|2021-05-16T18:11:58.6591874+03:00;True|2021-05-16T18:00:43.4867673+03:00;True|2021-05-16T17:53:59.7685004+03:00;True|2021-05-16T17:39:07.9104114+03:00;True|2021-05-16T17:31:00.5015112+03:00;True|2021-05-16T17:19:56.6630906+03:00;True|2021-05-16T17:00:01.5988254+03:00;True|2021-05-16T16:58:50.0379071+03:00;True|2021-05-16T16:43:22.6716863+03:00;True|2021-05-16T16:27:44.6338837+03:00;True|2021-05-16T16:01:22.2428292+03:00;True|2021-05-16T15:42:35.8296819+03:00;True|2021-05-16T15:42:18.2892035+03:00;True|2021-05-15T19:51:41.8398966+03:00;True|2021-05-15T19:39:10.6324230+03:00;True|2021-05-15T19:32:44.2472848+03:00;True|2021-05-15T19:22:17.0416715+03:00;True|2021-05-15T19:13:50.8287536+03:00;True|2021-05-15T16:14:30.8424146+03:00;True|2021-05-15T15:48:28.8716147+03:00;True|2021-05-15T15:35:41.2062690+03:00;True|2021-05-15T15:35:03.8870324+03:00;True|2021-05-15T15:28:00.6723261+03:00;True|2021-05-13T17:18:57.7147443+03:00;True|2021-05-13T17:17:17.8447141+03:00;True|2021-05-13T17:10:11.3288177+03:00;True|2021-05-13T15:55:11.2267817+03:00;True|2021-05-13T15:34:03.0268532+03:00;True|2021-05-13T15:05:35.1945841+03:00;True|2021-05-13T14:47:01.4222591+03:00;True|2021-05-13T14:46:01.1882749+03:00;True|2021-05-13T13:45:00.2445329+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Resources/about.txt">
+      <publishTime>05/04/2021 11:58:15</publishTime>
+    </File>
+    <File Include="Resources/Images/10265434914866.jpg">
+      <publishTime>05/01/2021 12:30:05</publishTime>
+    </File>
+    <File Include="Resources/Images/4ff.jpg">
+      <publishTime>04/30/2021 20:42:47</publishTime>
+    </File>
+    <File Include="Resources/Images/a.jpg">
+      <publishTime>04/30/2021 13:32:01</publishTime>
+    </File>
+    <File Include="Resources/Images/about.jpg">
+      <publishTime>05/01/2021 20:26:56</publishTime>
+    </File>
+    <File Include="Resources/Images/d.jpg">
+      <publishTime>04/30/2021 14:10:19</publishTime>
+    </File>
+    <File Include="Resources/Images/dd.jpg">
+      <publishTime>04/30/2021 14:11:19</publishTime>
+    </File>
+    <File Include="Resources/Images/ddd.jpg">
+      <publishTime>04/30/2021 14:11:58</publishTime>
+    </File>
+    <File Include="Resources/Images/dddd.jpg">
+      <publishTime>04/30/2021 14:13:14</publishTime>
+    </File>
+    <File Include="Resources/Images/e.jpg">
+      <publishTime>04/30/2021 13:37:45</publishTime>
+    </File>
+    <File Include="Resources/Images/f.jpg">
+      <publishTime>04/30/2021 14:23:04</publishTime>
+    </File>
+    <File Include="Resources/Images/ff.jpg">
+      <publishTime>04/30/2021 14:24:22</publishTime>
+    </File>
+    <File Include="Resources/Images/g.jpg">
+      <publishTime>04/30/2021 14:25:44</publishTime>
+    </File>
+    <File Include="Resources/Images/gg.jpg">
+      <publishTime>04/30/2021 14:27:12</publishTime>
+    </File>
+    <File Include="Resources/Images/o.jpg">
+      <publishTime>04/30/2021 14:08:21</publishTime>
+    </File>
+    <File Include="Resources/Images/q.jpg">
+      <publishTime>04/30/2021 13:35:05</publishTime>
+    </File>
+    <File Include="Resources/Images/r.jpg">
+      <publishTime>04/30/2021 13:41:45</publishTime>
+    </File>
+    <File Include="Resources/Images/s.jpg">
+      <publishTime>04/30/2021 13:36:38</publishTime>
+    </File>
+    <File Include="Resources/Images/t.jpg">
+      <publishTime>04/30/2021 13:25:25</publishTime>
+    </File>
+    <File Include="Resources/Images/test1.jpg">
+      <publishTime>05/04/2021 16:54:03</publishTime>
+    </File>
+    <File Include="Resources/Images/test2.jpg">
+      <publishTime>05/04/2021 16:59:31</publishTime>
+    </File>
+    <File Include="Resources/Images/tr.jpg">
+      <publishTime>04/30/2021 13:32:40</publishTime>
+    </File>
+    <File Include="Resources/Images/tt.jpg">
+      <publishTime>04/30/2021 13:44:34</publishTime>
+    </File>
+    <File Include="Resources/Images/ttt.jpg">
+      <publishTime>04/30/2021 13:45:33</publishTime>
+    </File>
+    <File Include="Resources/Images/u.jpg">
+      <publishTime>04/30/2021 14:06:39</publishTime>
+    </File>
+    <File Include="Resources/Images/uu.jpg">
+      <publishTime>04/30/2021 14:07:53</publishTime>
+    </File>
+    <File Include="Resources/Images/y.jpg">
+      <publishTime>04/30/2021 13:59:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
